@@ -2,14 +2,14 @@
 
 ### AR Mobile Game Application to promote community spirits through AR pixel filling while waiting for MRT
 
-Team Number: 30
-Team Name: Working Title
-Team Members:
+**Team Number:** 30<b>
+**Team Name:**  Working Title<b>
+**Team Members:**
+
 * Li Yuxuan
 * Soong Le Xuan
 * Kuah Wee Ping
 * Fion Yao Yuechi
 
 
-JunctionX Hackthon 2019
-
+*JunctionX Hackthon 2019*
