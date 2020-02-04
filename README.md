@@ -10,6 +10,7 @@
 * Soong Le Xuan
 * Kuah Wee Ping
 * Fion Yao Yuechi
+* Jeslyn Peh
 
 
 *JunctionX Hackthon 2019*
